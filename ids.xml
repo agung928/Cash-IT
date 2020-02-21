@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etnohandphone" type="id" />
+    <item name="etMasuk" type="id" />
+    <item name="etRegistrasi" type="id" />
+    <item name="et_nama" type="id" />
+    <item name="et_nohandphone" type="id" />
+    <item name="et_email" type="id" />
+    <item name="et_masukkodeagen" type="id" />
+    <item name="et_registrasi" type="id" />
+    <item name="et_masuk" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="txt_daftar" type="id" />
+</resources>
